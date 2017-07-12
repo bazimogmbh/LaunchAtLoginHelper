@@ -102,7 +102,7 @@
 				ORGANIZATIONNAME = "David Keegan";
 				TargetAttributes = {
 					734C379315414CE200994189 = {
-						DevelopmentTeam = C23R26795J;
+						DevelopmentTeam = 97VA5RA5VY;
 					};
 				};
 			};
@@ -223,6 +223,7 @@
 				CODE_SIGN_ENTITLEMENTS = LaunchAtLoginHelper/LaunchAtLoginHelper.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
+				DEVELOPMENT_TEAM = 97VA5RA5VY;
 				INFOPLIST_FILE = "LaunchAtLoginHelper/LaunchAtLoginHelper-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.6.8;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -238,6 +239,7 @@
 				CODE_SIGN_ENTITLEMENTS = LaunchAtLoginHelper/LaunchAtLoginHelper.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
+				DEVELOPMENT_TEAM = 97VA5RA5VY;
 				INFOPLIST_FILE = "LaunchAtLoginHelper/LaunchAtLoginHelper-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.6.8;
 				PRODUCT_NAME = "$(TARGET_NAME)";
